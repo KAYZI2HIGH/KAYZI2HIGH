@@ -28,127 +28,106 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<div align="left" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: 20px;">
+<p align="left">
   <!-- Appwrite -->
-  <div style="display: flex; align-items: center; gap: 8px; padding: 12px; background: white; border-radius: 8px; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);">
-    <img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" alt="appwrite" width="40" height="40"/>
-    <span style="font-size: 14px; font-weight: 500;">Appwrite</span>
-  </div>
+  <img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" alt="appwrite" width="40" height="40" style="vertical-align:middle; margin-right:8px;" />
+  <span style="font-size: 14px; font-weight: 500;">Appwrite</span>
+  &nbsp;&nbsp;&nbsp;&nbsp;
 
   <!-- Bootstrap -->
-  <div style="display: flex; align-items: center; gap: 8px; padding: 12px; background: white; border-radius: 8px; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
-    <span style="font-size: 14px; font-weight: 500;">Bootstrap</span>
-  </div>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40" style="vertical-align:middle; margin-right:8px;" />
+  <span style="font-size: 14px; font-weight: 500;">Bootstrap</span>
+  &nbsp;&nbsp;&nbsp;&nbsp;
 
   <!-- CSS3 -->
-  <div style="display: flex; align-items: center; gap: 8px; padding: 12px; background: white; border-radius: 8px; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-    <span style="font-size: 14px; font-weight: 500;">CSS3</span>
-  </div>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" style="vertical-align:middle; margin-right:8px;" />
+  <span style="font-size: 14px; font-weight: 500;">CSS3</span>
+  &nbsp;&nbsp;&nbsp;&nbsp;
 
   <!-- Figma -->
-  <div style="display: flex; align-items: center; gap: 8px; padding: 12px; background: white; border-radius: 8px; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
-    <span style="font-size: 14px; font-weight: 500;">Figma</span>
-  </div>
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" style="vertical-align:middle; margin-right:8px;" />
+  <span style="font-size: 14px; font-weight: 500;">Figma</span>
+  &nbsp;&nbsp;&nbsp;&nbsp;
 
   <!-- Firebase -->
-  <div style="display: flex; align-items: center; gap: 8px; padding: 12px; background: white; border-radius: 8px; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);">
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
-    <span style="font-size: 14px; font-weight: 500;">Firebase</span>
-  </div>
+  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40" style="vertical-align:middle; margin-right:8px;" />
+  <span style="font-size: 14px; font-weight: 500;">Firebase</span>
+  &nbsp;&nbsp;&nbsp;&nbsp;
 
   <!-- Git -->
-  <div style="display: flex; align-items: center; gap: 8px; padding: 12px; background: white; border-radius: 8px; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-    <span style="font-size: 14px; font-weight: 500;">Git</span>
-  </div>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" style="vertical-align:middle; margin-right:8px;" />
+  <span style="font-size: 14px; font-weight: 500;">Git</span>
+  &nbsp;&nbsp;&nbsp;&nbsp;
 
   <!-- HTML5 -->
-  <div style="display: flex; align-items: center; gap: 8px; padding: 12px; background: white; border-radius: 8px; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-    <span style="font-size: 14px; font-weight: 500;">HTML5</span>
-  </div>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" style="vertical-align:middle; margin-right:8px;" />
+  <span style="font-size: 14px; font-weight: 500;">HTML5</span>
+  &nbsp;&nbsp;&nbsp;&nbsp;
 
   <!-- JavaScript -->
-  <div style="display: flex; align-items: center; gap: 8px; padding: 12px; background: white; border-radius: 8px; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-    <span style="font-size: 14px; font-weight: 500;">JavaScript</span>
-  </div>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" style="vertical-align:middle; margin-right:8px;" />
+  <span style="font-size: 14px; font-weight: 500;">JavaScript</span>
+  &nbsp;&nbsp;&nbsp;&nbsp;
 
   <!-- Jest -->
-  <div style="display: flex; align-items: center; gap: 8px; padding: 12px; background: white; border-radius: 8px; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);">
-    <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/>
-    <span style="font-size: 14px; font-weight: 500;">Jest</span>
-  </div>
+  <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40" style="vertical-align:middle; margin-right:8px;" />
+  <span style="font-size: 14px; font-weight: 500;">Jest</span>
+  &nbsp;&nbsp;&nbsp;&nbsp;
 
   <!-- MongoDB -->
-  <div style="display: flex; align-items: center; gap: 8px; padding: 12px; background: white; border-radius: 8px; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-    <span style="font-size: 14px; font-weight: 500;">MongoDB</span>
-  </div>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40" style="vertical-align:middle; margin-right:8px;" />
+  <span style="font-size: 14px; font-weight: 500;">MongoDB</span>
+  &nbsp;&nbsp;&nbsp;&nbsp;
 
   <!-- MySQL -->
-  <div style="display: flex; align-items: center; gap: 8px; padding: 12px; background: white; border-radius: 8px; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-    <span style="font-size: 14px; font-weight: 500;">MySQL</span>
-  </div>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" style="vertical-align:middle; margin-right:8px;" />
+  <span style="font-size: 14px; font-weight: 500;">MySQL</span>
+  &nbsp;&nbsp;&nbsp;&nbsp;
 
   <!-- Next.js -->
-  <div style="display: flex; align-items: center; gap: 8px; padding: 12px; background: white; border-radius: 8px; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);">
-    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/>
-    <span style="font-size: 14px; font-weight: 500;">Next.js</span>
-  </div>
+  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40" style="vertical-align:middle; margin-right:8px;" />
+  <span style="font-size: 14px; font-weight: 500;">Next.js</span>
+  &nbsp;&nbsp;&nbsp;&nbsp;
 
   <!-- Photoshop -->
-  <div style="display: flex; align-items: center; gap: 8px; padding: 12px; background: white; border-radius: 8px; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>
-    <span style="font-size: 14px; font-weight: 500;">Photoshop</span>
-  </div>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40" style="vertical-align:middle; margin-right:8px;" />
+  <span style="font-size: 14px; font-weight: 500;">Photoshop</span>
+  &nbsp;&nbsp;&nbsp;&nbsp;
 
   <!-- Python -->
-  <div style="display: flex; align-items: center; gap: 8px; padding: 12px; background: white; border-radius: 8px; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-    <span style="font-size: 14px; font-weight: 500;">Python</span>
-  </div>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" style="vertical-align:middle; margin-right:8px;" />
+  <span style="font-size: 14px; font-weight: 500;">Python</span>
+  &nbsp;&nbsp;&nbsp;&nbsp;
 
   <!-- React -->
-  <div style="display: flex; align-items: center; gap: 8px; padding: 12px; background: white; border-radius: 8px; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-    <span style="font-size: 14px; font-weight: 500;">React</span>
-  </div>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" style="vertical-align:middle; margin-right:8px;" />
+  <span style="font-size: 14px; font-weight: 500;">React</span>
+  &nbsp;&nbsp;&nbsp;&nbsp;
 
   <!-- React Native -->
-  <div style="display: flex; align-items: center; gap: 8px; padding: 12px; background: white; border-radius: 8px; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);">
-    <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/>
-    <span style="font-size: 14px; font-weight: 500;">React Native</span>
-  </div>
+  <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40" style="vertical-align:middle; margin-right:8px;" />
+  <span style="font-size: 14px; font-weight: 500;">React Native</span>
+  &nbsp;&nbsp;&nbsp;&nbsp;
 
   <!-- Redux -->
-  <div style="display: flex; align-items: center; gap: 8px; padding: 12px; background: white; border-radius: 8px; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
-    <span style="font-size: 14px; font-weight: 500;">Redux</span>
-  </div>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40" style="vertical-align:middle; margin-right:8px;" />
+  <span style="font-size: 14px; font-weight: 500;">Redux</span>
+  &nbsp;&nbsp;&nbsp;&nbsp;
 
   <!-- Sass -->
-  <div style="display: flex; align-items: center; gap: 8px; padding: 12px; background: white; border-radius: 8px; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
-    <span style="font-size: 14px; font-weight: 500;">Sass</span>
-  </div>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40" style="vertical-align:middle; margin-right:8px;" />
+  <span style="font-size: 14px; font-weight: 500;">Sass</span>
+  &nbsp;&nbsp;&nbsp;&nbsp;
 
   <!-- Tailwind CSS -->
-  <div style="display: flex; align-items: center; gap: 8px; padding: 12px; background: white; border-radius: 8px; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
-    <span style="font-size: 14px; font-weight: 500;">Tailwind CSS</span>
-  </div>
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40" style="vertical-align:middle; margin-right:8px;" />
+  <span style="font-size: 14px; font-weight: 500;">Tailwind CSS</span>
+  &nbsp;&nbsp;&nbsp;&nbsp;
 
   <!-- TypeScript -->
-  <div style="display: flex; align-items: center; gap: 8px; padding: 12px; background: white; border-radius: 8px; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-    <span style="font-size: 14px; font-weight: 500;">TypeScript</span>
-  </div>
-</div>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" style="vertical-align:middle; margin-right:8px;" />
+  <span style="font-size: 14px; font-weight: 500;">TypeScript</span>
+</p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=KAYZI2HIGH&show_icons=true&locale=en&layout=compact" alt="kayzi2high" /></p>
 
