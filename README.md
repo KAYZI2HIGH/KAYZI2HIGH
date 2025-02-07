@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kayode</h1>
 <h3 align="center">A passionate frontend developer from Lagos, Nigeria.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kayzi2high" alt="kayzi2high" /></a> </p>
+I'm a frontend-focused developer with experience in building responsive and user-friendly web applications using React, Next.js, and Tailwind. While I primarily work with frontend technologies, I'm expanding my skills to backend development, particularly exploring Python. I've built various projects, including full-stack applications with authentication, image storage, and real-time updates. I enjoy collaborating on open-source projects and contributing to the tech community, continuously striving to improve my skills and create impactful solutions.
 
 <p align="left"> <a href="https://twitter.com/kayzigucci" target="blank"><img src="https://img.shields.io/twitter/follow/kayzigucci?logo=twitter&style=for-the-badge" alt="kayzigucci" /></a> </p>
 
@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **frontend projects, especially ones using React, Next.js, and Tailwind.**
 
-- 👨‍💻 All of my projects are available at [https://portfoliov2-seven-delta.vercel.app/](https://portfoliov2-seven-delta.vercel.app/)
+- 👨‍💻 All of my projects are available at [hsttps://portfoliov2-seven-delta.vercel.app/](https://portfoliov2-seven-delta.vercel.app/)
 
 - 💬 Ask me about **react, and next.js**
 
@@ -28,110 +28,61 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <!-- Appwrite -->
-  <img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" alt="appwrite" width="40" height="40" style="vertical-align:middle; margin-right:8px;" />
-  <span style="font-size: 14px; font-weight: 500;">Appwrite</span>
-  &nbsp;&nbsp;&nbsp;&nbsp;
+<div>
 
-  <!-- Bootstrap -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40" style="vertical-align:middle; margin-right:8px;" />
-  <span style="font-size: 14px; font-weight: 500;">Bootstrap</span>
-  &nbsp;&nbsp;&nbsp;&nbsp;
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
-  <!-- CSS3 -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" style="vertical-align:middle; margin-right:8px;" />
-  <span style="font-size: 14px; font-weight: 500;">CSS3</span>
-  &nbsp;&nbsp;&nbsp;&nbsp;
+###
 
-  <!-- Figma -->
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" style="vertical-align:middle; margin-right:8px;" />
-  <span style="font-size: 14px; font-weight: 500;">Figma</span>
-  &nbsp;&nbsp;&nbsp;&nbsp;
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/appwrite/appwrite-original.svg" height="30" alt="appwrite logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30" alt="firebase logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="30" alt="jest logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="30" alt="jquery logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="30" alt="materialui logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="30" alt="npm logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="30" alt="pycharm logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="30" alt="redux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="30" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
+</div>
+</div>
 
-  <!-- Firebase -->
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40" style="vertical-align:middle; margin-right:8px;" />
-  <span style="font-size: 14px; font-weight: 500;">Firebase</span>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-
-  <!-- Git -->
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" style="vertical-align:middle; margin-right:8px;" />
-  <span style="font-size: 14px; font-weight: 500;">Git</span>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-
-  <!-- HTML5 -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" style="vertical-align:middle; margin-right:8px;" />
-  <span style="font-size: 14px; font-weight: 500;">HTML5</span>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-
-  <!-- JavaScript -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" style="vertical-align:middle; margin-right:8px;" />
-  <span style="font-size: 14px; font-weight: 500;">JavaScript</span>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-
-  <!-- Jest -->
-  <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40" style="vertical-align:middle; margin-right:8px;" />
-  <span style="font-size: 14px; font-weight: 500;">Jest</span>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-
-  <!-- MongoDB -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40" style="vertical-align:middle; margin-right:8px;" />
-  <span style="font-size: 14px; font-weight: 500;">MongoDB</span>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-
-  <!-- MySQL -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" style="vertical-align:middle; margin-right:8px;" />
-  <span style="font-size: 14px; font-weight: 500;">MySQL</span>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-
-  <!-- Next.js -->
-  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40" style="vertical-align:middle; margin-right:8px;" />
-  <span style="font-size: 14px; font-weight: 500;">Next.js</span>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-
-  <!-- Photoshop -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40" style="vertical-align:middle; margin-right:8px;" />
-  <span style="font-size: 14px; font-weight: 500;">Photoshop</span>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-
-  <!-- Python -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" style="vertical-align:middle; margin-right:8px;" />
-  <span style="font-size: 14px; font-weight: 500;">Python</span>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-
-  <!-- React -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" style="vertical-align:middle; margin-right:8px;" />
-  <span style="font-size: 14px; font-weight: 500;">React</span>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-
-  <!-- React Native -->
-  <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40" style="vertical-align:middle; margin-right:8px;" />
-  <span style="font-size: 14px; font-weight: 500;">React Native</span>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-
-  <!-- Redux -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40" style="vertical-align:middle; margin-right:8px;" />
-  <span style="font-size: 14px; font-weight: 500;">Redux</span>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-
-  <!-- Sass -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40" style="vertical-align:middle; margin-right:8px;" />
-  <span style="font-size: 14px; font-weight: 500;">Sass</span>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-
-  <!-- Tailwind CSS -->
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40" style="vertical-align:middle; margin-right:8px;" />
-  <span style="font-size: 14px; font-weight: 500;">Tailwind CSS</span>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-
-  <!-- TypeScript -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" style="vertical-align:middle; margin-right:8px;" />
-  <span style="font-size: 14px; font-weight: 500;">TypeScript</span>
-</p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=KAYZI2HIGH&show_icons=true&locale=en&layout=compact" alt="kayzi2high" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=KAYZI2HIGH&show_icons=true&locale=en" alt="kayzi2high" /></p>
+<div align='center'>
+  <img src="https://github-readme-stats.vercel.app/api?username=KAYZI2HIGH&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=KAYZI2HIGH&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
 
 
